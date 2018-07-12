@@ -1,32 +1,17 @@
-​
-53
-- B.S. in Chinese Medicinal Science
-54
-​
-55
+
 - Major GPA: __4.0__, Cumulative GPA: __3.93__
-56
-​
-57
-​
-58
+
 - Study the knowledge of Vhinese Medicine
-59
-​
-60
+5
 ## Publications
-61
-​
-62
+
+
 ###  [__A natural product-like JAK2/STAT3 inhibitor induces apoptosis of malignan melanoma cells__](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177123)
-63
-​
-64
-Ke-Jia Wu, __Jie-min Huang__, Hai-Jing
-65
-Zhong, Zhen-Zhen Dong, Kasipandi
-66
-Vellaisamy, Jin-Jian Lu, Xiuping Chen,
+
+
+
+
+Ke-Jia Wu, __Jie-min Huang__, Hai-Jing Zhong, Zhen-Zhen Dong, Kasipandi Vellaisamy, Jin-Jian Lu, Xiuping Chen,
 67
 Pauline Chiu, D. W. J. Kwong, Quan-Bin
 68
@@ -127,5 +112,3 @@ John Montgomery Scholarship `DIckinson, 2013` <br>
 Last updated: May 2013 -->
 116
  
-117
-​
