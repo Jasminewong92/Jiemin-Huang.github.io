@@ -32,7 +32,7 @@ __Github__     'https://Github.com/Jasminewong92'
 ```
 Macau, China
 ```
-- B.S. in Chinese Medicinal Science
+- M.S. in Chinese Medicinal Science
 
 - Major GPA: __17/20__, Cumulative GPA: __3.46__
 
@@ -43,7 +43,7 @@ molecular target. Studying the protein-protein interactions hat correlate with d
 
 
 
-### __Dickinson College__ `2013.9 - 2016.5`
+### __Guangzhou University of Chinese Medicine__ `2011.9 - 2015.6`
 ```
 Carlisle, PA
 ```
