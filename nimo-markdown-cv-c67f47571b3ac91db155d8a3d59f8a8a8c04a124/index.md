@@ -11,8 +11,7 @@ pdf: true
 
 </div>
 
-## Personal Information
-
+##   `  Personal Information                                          ` 
 
 
 __Phone__     +86 188 2514 7714
@@ -23,7 +22,6 @@ __Email__  'mb55831@pclan.umac.mo'
 
 
 __Github__     'https://Github.com/Jasminewong92'
-
 
 
 ## Education
