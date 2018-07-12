@@ -1,16 +1,26 @@
 ---
 layout: cv
-title: Nimo's CV
+title: Jasmine's CV
 pdf: true
 ---
-# Wode __Ni__
+# Jiemine__Huang__
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://columbia.edu/~wn2155" style="margin-left:0.5em">columbia.edu/~wn2155</a>
+<a href="http://www.umac.mo/~mb55831" style="margin-left:0.5em">umac.mo/~mb55831</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="wn2155@columbia.edu" style="margin-left:0.5em">wn2155@columbia.edu</a>
+<a href="mb55831@pclan.umac.mo" style="margin-left:0.5em">mb55831@pclan.umac.mo</a>
 </div>
+
+## Personal Information
+
+### __Email__'mb55831@pclan.umac.mo'
+
+### __Phone__'+86 188 2514 7714'
+
+### __Github__'Github.com/Jasminewong92'
+
+
 
 ## Education
 
