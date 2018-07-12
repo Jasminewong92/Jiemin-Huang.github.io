@@ -13,26 +13,35 @@ pdf: true
 
 ## Personal Information
 
-Phone     +86 188 2514 7714
+
+__Phone__     +86 188 2514 7714
+
+
+__Email__  'mb55831@pclan.umac.mo'
 
 
 
-Email     '    mb55831@pclan.umac.mo'
-
-
-Github    'https://Github.com/Jasminewong92'
+__Github__     'https://Github.com/Jasminewong92'
 
 
 
 ## Education
 
-### __Columbia University__ `2016.9 - Present`
+### __University of Macau__ `2015.8 - 2016.7`
+
 ```
-New York, NY
+Macau, China
 ```
-- B.S. in Computer Science
-- Major GPA: __4.0__, Cumulative GPA: __3.97__
-- Vision, Graphics track
+- B.S. in Chinese Medicinal Science
+
+- Major GPA: __17/20__, Cumulative GPA: __3.46__
+
+
+- Development and testing the biological activities of natural products and metal-based compounds for
+molecular target. Studying the protein-protein interactions hat correlate with disease progression after drug treatment.
+
+
+
 
 ### __Dickinson College__ `2013.9 - 2016.5`
 ```
