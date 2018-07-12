@@ -13,13 +13,11 @@ pdf: true
 
 ## Personal Information
 
-```
-
-```
-Email     '    mb55831@pclan.umac.mo'
-
-
 Phone     +86 188 2514 7714
+
+
+
+Email     '    mb55831@pclan.umac.mo'
 
 
 Github    'https://Github.com/Jasminewong92'
