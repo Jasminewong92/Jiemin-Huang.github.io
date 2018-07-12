@@ -7,9 +7,8 @@ pdf: true
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://www.umac.mo/~mb55831" style="margin-left:0.5em">umac.mo/~mb55831</a>
-<i class="fi-mail" style="margin-left:1em"></i>
-<a href="mb55831@pclan.umac.mo" style="margin-left:0.5em">mb55831@pclan.umac.mo</a>
+<a href="http://jasminekong92.github.io.cv/" style="margin-left:0.5em">Looking for PhD position</a>
+
 </div>
 
 ## Personal Information
