@@ -1,9 +1,4 @@
----
-layout: cv
-title: Jasmine's CV
-pdf: true
----
-# Jiemin  Huang
+ # Jiemin  Huang 
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
