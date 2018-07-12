@@ -16,13 +16,13 @@ pdf: true
 ```
 
 ```
-Email'mb55831@pclan.umac.mo'
+Email     '    mb55831@pclan.umac.mo'
 
 
 Phone     +86 188 2514 7714
 
 
-Github'Https://Github.com/Jasminewong92'
+Github    'https://Github.com/Jasminewong92'
 
 
 
