@@ -3,7 +3,7 @@ layout: cv
 title: Jasmine's CV
 pdf: true
 ---
-# Jiemine__Huang__
+# Jiemin  Huang
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
@@ -13,11 +13,16 @@ pdf: true
 
 ## Personal Information
 
-### __Email__'mb55831@pclan.umac.mo'
+```
 
-### __Phone__'+86 188 2514 7714'
+```
+Email'mb55831@pclan.umac.mo'
 
-### __Github__'Github.com/Jasminewong92'
+
+Phone     +86 188 2514 7714
+
+
+Github'Https://Github.com/Jasminewong92'
 
 
 
