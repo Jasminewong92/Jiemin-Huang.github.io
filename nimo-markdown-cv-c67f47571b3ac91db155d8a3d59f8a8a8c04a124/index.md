@@ -14,6 +14,7 @@ pdf: true
 ## Personal Information
 
 
+
 __Phone__     +86 188 2514 7714
 
 
@@ -27,11 +28,13 @@ __Github__     'https://Github.com/Jasminewong92'
 
 ## Education
 
-### __University of Macau__ `2015.8 - 2016.7`
 
-```
+### __University of Macau__  2015.8 - 2016.7
+
+
 Macau, China
-```
+
+
 - M.S. in Chinese Medicinal Science
 
 - Major GPA: __17/20__, Cumulative GPA: __3.46__
