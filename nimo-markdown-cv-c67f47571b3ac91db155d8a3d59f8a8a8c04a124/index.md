@@ -11,7 +11,7 @@ pdf: true
 
 </div>
 
-##   `  Personal Information                                          ` 
+##    Personal Information                                          
 
 
 __Phone__     +86 188 2514 7714
@@ -24,8 +24,7 @@ __Email__  'mb55831@pclan.umac.mo'
 __Github__     'https://Github.com/Jasminewong92'
 
 
-## Education
-
+##  Education  
 
 ### __University of Macau__  2015.8 - 2016.7
 
@@ -38,21 +37,35 @@ Macau, China
 - Major GPA: __17/20__, Cumulative GPA: __3.46__
 
 
-- Development and testing the biological activities of natural products and metal-based compounds for
-molecular target. Studying the protein-protein interactions hat correlate with disease progression after drug treatment.
+- Developed and tested the biological activities of natural products and metal-based compounds for
+molecular target. Studied the protein-protein interactions that correlate with disease progression after drug treatment.
 
 
 
 
-### __Guangzhou University of Chinese Medicine__ `2011.9 - 2015.6`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science
+### __Guangzhou University of Chinese Medicine__  2011.9 - 2015.6 
+
+
+
+Guangzhou, China
+
+
+- B.S. in Chinese Medicinal Science
+
 - Major GPA: __4.0__, Cumulative GPA: __3.93__
-- Computer Science Departmental Honors
+
+
+- Study the knowledge of Vhinese Medicine
 
 ## Publications
+
+###  [__A natural product-like JAK2/STAT3 inhibitor induces apoptosis of malignan melanoma cells__](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177123)
+
+Ke-Jia Wu, __Jie-min Huang__, Hai-Jing
+Zhong, Zhen-Zhen Dong, Kasipandi
+Vellaisamy, Jin-Jian Lu, Xiuping Chen,
+Pauline Chiu, D. W. J. Kwong, Quan-Bin
+Han, Dik-Lung Ma/* and Chung-Hang Leung/*.
 
 ### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
 __Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
@@ -100,3 +113,4 @@ John Montgomery Scholarship `DIckinson, 2013` <br>
 <!-- ### Footer
 
 Last updated: May 2013 -->
+ 
