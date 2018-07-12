@@ -62,6 +62,11 @@ Vellaisamy, Jin-Jian Lu, Xiuping Chen,
 Pauline Chiu, D. W. J. Kwong, Quan-Bin
 Han, Dik-Lung Ma* and Chung-Hang Leung*.
 
+###[__Small Molecule Pin1 Inhibitor Blocking NF-B Signaling in Prostate Cancer Cells__](https://app.peer.us/invitation.html#/1da97e7b81cffa89758ad7af955fb99a?_k=fiiexo)
+
+
+
+
 ### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
 __Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
 [[PDF](assets/dsldi.pdf)]
