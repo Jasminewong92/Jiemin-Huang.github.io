@@ -50,7 +50,7 @@ Guangzhou, China
 - Major GPA: __4.0__, Cumulative GPA: __3.93__
 
 
-- Study the knowledge of Vhinese Medicine
+- Study the theoretical knowledge of Tradictional Chinese Medicine. Master the
 
 ## Publications
 
@@ -60,7 +60,7 @@ Ke-Jia Wu, __Jie-min Huang__, Hai-Jing
 Zhong, Zhen-Zhen Dong, Kasipandi
 Vellaisamy, Jin-Jian Lu, Xiuping Chen,
 Pauline Chiu, D. W. J. Kwong, Quan-Bin
-Han, Dik-Lung Ma/* and Chung-Hang Leung/*.
+Han, Dik-Lung Ma* and Chung-Hang Leung*.
 
 ### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
 __Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
