@@ -31,7 +31,7 @@ Macau, China
 - Major GPA: __17/20__, Cumulative GPA: __3.46__
 
 
-- Study how to design a research
+- Taking on advance study in the field of life science study. learning the 
 
 
 
