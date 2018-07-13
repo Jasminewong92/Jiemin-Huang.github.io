@@ -12,11 +12,10 @@
 __Phone__     +86 188 2514 7714
 
 
-__Email__  'mb55831@pclan.umac.mo'
+__Email__    <mb55831@pclan.umac.mo>
 
 
-
-__Github__     'https://Github.com/Jasminewong92'
+__Github__    <https://Github.com/Jasminewong9>
 
 
 ##  Education  
@@ -74,9 +73,9 @@ Dik-Lung Ma* and Chung-Hang Leung*.
 
 
 
-# Experience
+# Academic Experience
 
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
+### __Shenzhen People's Hospital__  `2017.11 - Now`
 _Research Assistant_<br>
 __Penrose__ is a system that automatically visualizes mathematics. The system, comprised of two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
 
