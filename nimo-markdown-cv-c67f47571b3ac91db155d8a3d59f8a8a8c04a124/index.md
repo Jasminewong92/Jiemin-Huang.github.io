@@ -32,9 +32,7 @@ Macau, China
 - Major GPA: __17/20__, Cumulative GPA: __3.46__
 
 
-- Developed and tested the biological activities of natural products and metal-based compounds for
-molecular target. Studied the protein-protein interactions that correlate with disease progression after drug treatment.
-
+- Study how to design a research
 
 
 
@@ -50,7 +48,7 @@ Guangzhou, China
 - Major GPA: __4.0__, Cumulative GPA: __3.93__
 
 
-- Study the theoretical knowledge of Tradictional Chinese Medicine. Master the
+- Study the theoretical knowledge of Tradictional Chinese Medicine. Get familiar with the character of the Chinese Herbal Medicines.
 
 ## Publications
 
@@ -62,23 +60,21 @@ Vellaisamy, Jin-Jian Lu, Xiuping Chen,
 Pauline Chiu, D. W. J. Kwong, Quan-Bin
 Han, Dik-Lung Ma* and Chung-Hang Leung*.
 
-###[__Small Molecule Pin1 Inhibitor Blocking NF-B Signaling in Prostate Cancer Cells__](https://app.peer.us/invitation.html#/1da97e7b81cffa89758ad7af955fb99a?_k=fiiexo)
+[[PDF](Academic/plos.pdf)]
+
+###  [__Small Molecule Pin1 Inhibitor Blocking NF-B Signaling in Prostate Cancer Cells__](https://app.peer.us/invitation.html#/1da97e7b81cffa89758ad7af955fb99a?_k=fiiexo)
+
+ Ke-Jia Wu,Hai-Jing Zhong, Guanjun Yang,
+Chun Wu,__Jie-min Huang__, Guodong Li,
+Dik-Lung Ma* and Chung-Hang Leung*.
+
+
+[[PDF](Academic/pin.pdf)]
 
 
 
 
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
-
-## Experience
+# Experience
 
 ### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
 _Research Assistant_<br>
