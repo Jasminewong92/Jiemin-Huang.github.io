@@ -87,7 +87,7 @@ management of experimental animals.
 
 
 
-### __University of Macau, Institute of Chinese Medical Sciences, Computer Graphics and User Interfaces Lab__ `2015.8 - 2017.7'
+### __University of Macau, Institute of Chinese Medical Sciences, Computer Graphics and User Interfaces Lab__ `2015.8 - 2017.7`
 _Master Student_<br>
 
 Developing and testing the biological activities of
@@ -111,6 +111,19 @@ Ensure the projects run on the requirement of schedule
 and quality.
 
 
+###__Novartis__ `2014.7-2015.1`
+
+-Intern-<br>
+
+
+
+Assisting in the preparation of academic conference.
+Writing the meeting minutes. Collecting
+literature documents that match the customer’s
+needs and desires. Providing general support to
+the team member.
+
+
 
 ## Teaching
 
@@ -131,5 +144,5 @@ John Montgomery Scholarship `DIckinson, 2013` <br>
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated>: May 2013 -->
  
