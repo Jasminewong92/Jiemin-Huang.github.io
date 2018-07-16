@@ -74,6 +74,14 @@ Dik-Lung Ma* and Chung-Hang Leung*.
 
 
 
+## Honors & Awards
+
+The scholarship for recreation and sport `Guangzhou, 2013` <br>
+
+First place of Hightjump in college sport meeting `Guangzhou, 2013`<br>
+
+
+
 
 # Academic Experience
 
@@ -125,42 +133,24 @@ the team member.
 
 
 
-## Skills
-
-
-### _Language_
-
-_Cantonese_   Native Speaker
-
-
-_Chinese_ : Good
-
-_English_:      Good
-
-
-
-
-
-## Honors & Awards
-The scholarship for recreation and sport `Guangzhou, 2013` <br>
-First place of Hightjump in college sport meeting `Guangzhou, 2013`<br>
 
 
 ## Skills
 
 
-- Microsoft Office / Apple iWork
-
-- Java programming
+- WB, qPCR, IP, IHC, ICC
 
 
-- Visual 3D
+- GraphPad prism, Chemdraw, PS, AI
+
+
+- Good at Cantonese, Chinese, English
 
 
 ## References
 
 
-__Elizabeth Myers, M. Ed.__: _Advisor_  (elm122@psu.edu)
+__Khalid.Khan, PhD.__: _Advisor_  (elm122@psu.edu)
 
 
 __John Challis, Ph.D.__: _Research Advisor_  (jhc10@psu.edu)
