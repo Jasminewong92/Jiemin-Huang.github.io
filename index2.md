@@ -150,16 +150,13 @@ the team member.
 ## References
 
 
-__Khalid.Khan, PhD.__: _Advisor_  (elm122@psu.edu)
+__Khalid.Khan, PhD.__: _Research Advisor_  (m18665901597@163.com)
 
 
-__John Challis, Ph.D.__: _Research Advisor_  (jhc10@psu.edu)
+__Mengjie Feng, M.D.__: _Research Advisor_  (FengMJ321@163.com)
 
 
-__Robert B. Eckhardt, Ph.D.__: _Research Advisor_   (eyl@psu.edu)
-
-
-__Carly Onkotz Wheaton, PT, DPT__: _Facility Supervisor_   (814-278-1912)
+__Xifeng Lu, Ph.D.__: _Lecture_  (xifeng.lu@outlook.com)
 
 
 
