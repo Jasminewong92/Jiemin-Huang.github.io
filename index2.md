@@ -125,7 +125,7 @@ _Intern_<br>
 Assisting in the preparation of academic conference.
 Writing the meeting minutes. Collecting
 literature documents that match the customer’s
-needs and desires. Providing general support to
+needs and desires. Providing general supports to
 the team member.
 
 
