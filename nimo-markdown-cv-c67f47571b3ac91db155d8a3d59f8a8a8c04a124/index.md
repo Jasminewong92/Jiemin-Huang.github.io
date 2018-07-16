@@ -130,25 +130,22 @@ the team member.
 
 ### _Language_
 
-_Cantonese_ Native Speaker
-_Chinese_ Oral:good Written:good
+_Cantonese_   Native Speaker
 
-_English_ Oral:good Written:fair
+
+_Chinese_ : Good
+
+_English_:      Good
 
 
 
 
 
 ## Honors & Awards
-
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honor `DIckinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `DIckinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `DIckinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `DIckinson, 2013` <br>
+The scholarship for recreation and sport `Guangzhou, 2013` <br>
+First place in Hightjump in college sport meeting `Guangzhou, 2013` <br>
 
 <!-- ### Footer
 
-Last updated>: May 2013 -->
+Last updated>: July 2018-->
  
