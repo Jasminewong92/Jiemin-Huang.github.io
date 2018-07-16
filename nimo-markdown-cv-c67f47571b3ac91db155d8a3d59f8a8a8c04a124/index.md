@@ -143,7 +143,7 @@ _English_:      Good
 
 ## Honors & Awards
 The scholarship for recreation and sport `Guangzhou, 2013` <br>
-First place in Hightjump in college sport meeting `Guangzhou, 2013` <br>
+First place of Hightjump in college sport meeting `Guangzhou, 2013` <br>
 
 <!-- ### Footer
 
