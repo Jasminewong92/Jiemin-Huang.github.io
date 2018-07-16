@@ -28,8 +28,6 @@ Macau, China
 
 - M.S. in Chinese Medicinal Science
 
-- Major GPA: __17/20__, Cumulative GPA: __3.46__
-
 
 - Taking on advance study in the field of life science study. learning the 
 
@@ -43,8 +41,6 @@ Guangzhou, China
 
 
 - B.S. in Chinese Medicinal Science
-
-- Major GPA: __4.0__, Cumulative GPA: __3.93__
 
 
 - Study the theoretical knowledge of Tradictional Chinese Medicine. Get familiar with the character of the Chinese Herbal Medicines.
