@@ -143,14 +143,33 @@ _English_:      Good
 
 ## Honors & Awards
 The scholarship for recreation and sport `Guangzhou, 2013` <br>
-First place of Hightjump in college sport meeting `Guangzhou, 2013` <br>
+First place of Hightjump in college sport meeting `Guangzhou, 2013`<br>
 
+
+## Skills
+
+
+- Microsoft Office / Apple iWork
+
+- Java programming
+
+
+- Visual 3D
 
 
 ## References
 
 
-Dr.Khalid.Khan (m18665901597@163.com)
+__Elizabeth Myers, M. Ed.__: _Advisor_  (elm122@psu.edu)
+
+
+__John Challis, Ph.D.__: _Research Advisor_  (jhc10@psu.edu)
+
+
+__Robert B. Eckhardt, Ph.D.__: _Research Advisor_   (eyl@psu.edu)
+
+
+__Carly Onkotz Wheaton, PT, DPT__: _Facility Supervisor_   (814-278-1912)
 
 
 
