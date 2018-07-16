@@ -84,7 +84,7 @@ First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 
 ### __Shenzhen People's Hospital, Department of Respiration__  `2017.11 - Now`
 _Research Assistant_<br>
-Providing general supports to the the national funded
+Providing general supports to the national funded
 natural science subjects. Designing and validating
 the molecular mechanisms of the asthma development.
 Supporting the day-to-day operation and
