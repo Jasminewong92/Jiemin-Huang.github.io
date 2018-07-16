@@ -111,7 +111,7 @@ _Clinical Research Assistant_<br>
 
 Liaising with doctors/investigators on conducting
 the clinical trial and maker sure each center has
-the tria. Verification of the data enter on the CRFs.
+the tria. Verification of the data entered on the CRFs.
 Ensure the projects run on the requirement of schedule
 and quality.
 
