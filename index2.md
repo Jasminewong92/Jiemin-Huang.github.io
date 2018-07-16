@@ -29,7 +29,7 @@ Macau, China
 - M.S. in Chinese Medicinal Science
 
 
-- Taking on advance study in the field of life science study. learning the 
+- Take on advance study in the field of life science. 
 
 
 
