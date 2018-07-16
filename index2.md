@@ -74,7 +74,8 @@ Dik-Lung Ma* and Chung-Hang Leung*.
 
 The scholarship for recreation and sport `Guangzhou, 2013` <br>
 
-First place of Hightjump in college sport meeting `Guangzhou, 2013`<br>
+
+First place for High jump in college sports meeting `Guangzhou, 2013`<br>
 
 
 
