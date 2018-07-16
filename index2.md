@@ -1,4 +1,4 @@
- # Jiemin  Huang 
+# Jiemin  Huang 
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
@@ -95,7 +95,7 @@ management of experimental animals.
 
 
 
-### __University of Macau, Institute of Chinese Medical Sciences, Computer Graphics and User Interfaces Lab__ `2015.8 - 2017.7`
+### __University of Macau, Institute of Chinese Medical Sciences__ `2015.8 - 2017.7`
 _Master Student_<br>
 
 Developing and testing the biological activities of
