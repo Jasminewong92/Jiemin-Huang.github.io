@@ -113,7 +113,7 @@ and quality.
 
 ### __Novartis__ `2014.7-2015.1`
 
--Intern-<br>
+_Intern_<br>
 
 
 
@@ -129,6 +129,14 @@ the team member.
 
 
 ### _Language_
+
+_Cantonese_ Native Speaker
+_Chinese_ Oral:good Written:good
+
+_English_ Oral:good Written:fair
+
+
+
 
 
 ## Honors & Awards
