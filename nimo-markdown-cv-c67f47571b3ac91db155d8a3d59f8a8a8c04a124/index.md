@@ -49,6 +49,8 @@ Guangzhou, China
 
 - Study the theoretical knowledge of Tradictional Chinese Medicine. Get familiar with the character of the Chinese Herbal Medicines.
 
+
+
 ## Publications
 
 ###  [__A natural product-like JAK2/STAT3 inhibitor induces apoptosis of malignan melanoma cells__](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177123)
@@ -75,17 +77,39 @@ Dik-Lung Ma* and Chung-Hang Leung*.
 
 # Academic Experience
 
-### __Shenzhen People's Hospital__  `2017.11 - Now`
+### __Shenzhen People's Hospital, Department of Respiration__  `2017.11 - Now`
 _Research Assistant_<br>
-__Penrose__ is a system that automatically visualizes mathematics. The system, comprised of two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+Providing general supports to the the national funded
+natural science subjects. Designing and validating
+the molecular mechanisms of the asthma development.
+Supporting the day-to-day operation and
+management of experimental animals.
 
-### __Columbia Univeristy, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
 
-### __AsiaInfo__ `2015.6 - 2015.8`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+
+### __University of Macau, Institute of Chinese Medical Sciences, Computer Graphics and User Interfaces Lab__ `2015.8 - 2017.7'
+_Master Student_<br>
+
+Developing and testing the biological activities of
+natural products and metal-based compounds for
+molecular target. Studying the protein-protein interactions
+that correlate with disease progression
+after drug treatment.
+
+
+
+
+### __Reelly Med Tech Developmen__ `2015.12 - 2016.7`
+
+_Clinical Research Assistant_<br>
+
+
+Liaising with doctors/investigators on conducting
+the clinical trial and maker sure each center has
+the tria. Verification of the data enter on the CRFs.
+Ensure the projects run on the requirement of schedule
+and quality.
+
 
 
 ## Teaching
