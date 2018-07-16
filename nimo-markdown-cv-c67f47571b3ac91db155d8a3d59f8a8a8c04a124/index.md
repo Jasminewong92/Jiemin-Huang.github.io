@@ -15,7 +15,7 @@ __Phone__     +86 188 2514 7714
 __Email__    <mb55831@pclan.umac.mo>
 
 
-__Github__    <https://Github.com/Jasminewong9>
+__Github__    <https://Github.com/Jasminewong92>
 
 
 ##  Education  
@@ -111,7 +111,7 @@ Ensure the projects run on the requirement of schedule
 and quality.
 
 
-###__Novartis__ `2014.7-2015.1`
+### __Novartis__ `2014.7-2015.1`
 
 -Intern-<br>
 
@@ -125,12 +125,10 @@ the team member.
 
 
 
-## Teaching
+## Skills
 
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2018` <br>
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
-Computer Lab Consultant `DIckinson, 2014 - 2016` <br>
+
+### _Language_
 
 
 ## Honors & Awards
