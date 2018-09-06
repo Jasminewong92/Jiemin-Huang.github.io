@@ -120,7 +120,7 @@ of schedule and quality.
 
 
 
-###__Novartis__ `2014.7-2015.1`
+### __Novartis__ `2014.7-2015.1`
 
 _Intern_<br>
 
