@@ -12,7 +12,7 @@
 __Phone__     +86 188 2514 7714
 
 
-__Email__    <mb55831@pclan.umac.mo>
+__Email__    <mb55831@connect.umac.mo>
 
 
 __Github__    <https://Github.com/Jasminewong92>
@@ -84,11 +84,12 @@ First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 
 ### __Shenzhen People's Hospital, Department of Respiration__  `2017.11 - Now`
 _Research Assistant_<br>
-Providing general supports to the national funded
-natural science subjects. Designing and validating
-the molecular mechanisms of the asthma development.
-Supporting the day-to-day operation and
-management of experimental animals.
+
+Providing general supports to the Scientific research
+project. Designing and validating the molecular
+mechanisms of the asthma development. Supporting
+the day-to-day operation and laboratory animals
+management.
 
 
 
@@ -97,9 +98,9 @@ _Master Student_<br>
 
 Developing and testing the biological activities of
 natural products and metal-based compounds for
-molecular target. Studying the protein-protein interactions
+molecular targets. Studying the protein-protein interactions
 that correlate with disease progression
-after drug treatment.
+after drugs treatment.
 
 
 
@@ -108,15 +109,18 @@ after drug treatment.
 
 _Clinical Research Assistant_<br>
 
-
 Liaising with doctors/investigators on conducting
-the clinical trial and maker sure each center has
-the tria. Verification of the data entered on the CRFs.
-Ensure the projects run on the requirement of schedule
-and quality.
+the clinical trial. Monitoring the trial throughout
+its duration. Ensuring each center has the trial
+materials. Verification of the data entered on the
+CRFs. Ensuring the projects run on the requirement
+of schedule and quality.
 
 
-### __Novartis__ `2014.7-2015.1`
+
+
+
+##__Novartis__ `2014.7-2015.1`
 
 _Intern_<br>
 
