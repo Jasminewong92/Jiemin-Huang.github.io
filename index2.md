@@ -12,7 +12,7 @@
 __Phone__     +86 188 2514 7714
 
 
-__Email__    <mb55831@connect.umac.mo>
+__Email__    <huangjm@mail.sustc.edu.>
 
 
 __Github__    <https://Github.com/Jasminewong92>
@@ -82,18 +82,27 @@ First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 
 # Academic Experience
 
-### __Shenzhen People's Hospital, Department of Respiration__  `2017.11 - Now`
+###__Southern University of Science and Technology__  `2018.10 – NOW`
+_Research Assistant_<br>
+
+Investigating the immune response of acute lung
+injury and heterotopic heart transplantation in mouse models. 
+Studing the immunobiology in cytokines and innate lymphoid cells.
+
+### __Shenzhen People's Hospital, Department of Respiration__  `2017.11 - 2018.10`
 _Research Assistant_<br>
 
 Providing general supports to the Scientific research
 project. Designing and validating the molecular
-mechanisms of the asthma development. Supporting
-the day-to-day operation and laboratory animals
+mechanisms of the asthma development. 
+Verified the naive of CD4+ T cells after treated with a specific
+miRNA.
+Supporting the day-to-day operation and laboratory animals
 management.
 
 
 
-### __University of Macau, Institute of Chinese Medical Sciences__ `2015.8 - 2017.7`
+### __University of Macau, Institute of Chinese Medical Sciences__ `2015.8 - 2017.06`
 _Master Student_<br>
 
 Developing and testing the biological activities of
@@ -142,10 +151,10 @@ member.
 ## Skills
 
 
-- WB, qPCR, IP, IHC, ICC
+- Cloning,Surgery,FCM, PCR, WB, IHC, ICC, ect
 
 
-- GraphPad prism, Chemdraw, PS, AI
+- Bioinformatic, Python
 
 
 - Good at Cantonese, Chinese, English
@@ -158,7 +167,7 @@ member.
 
 
 
-__Xinyuan Chen, PhD student.__: _Colleague_  (979424807@qq.com)
+__QuanLiu, Ph.D.__: _Boss_  (Liuq3@sustc.edu.cn)
 
 
 __Mengjie Feng, M.D.__: _Research Advisor_  (FengMJ321@163.com)
