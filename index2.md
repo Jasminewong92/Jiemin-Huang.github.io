@@ -173,7 +173,7 @@ __QuanLiu, Ph.D.__  _Boss_  (Liuq3@sustc.edu.cn)
 __Mengjie Feng, M.D.__  _Research Advisor_  (FengMJ321@163.com)
 
 
-__Xifeng Lu, Ph.D.__  _Friend_  (xifeng.lu@outlook.com)
+__Xifeng Lu, Ph.D.__  _Research Advisor_  (xifeng.lu@outlook.com)
 
 
 
