@@ -82,7 +82,7 @@ First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 
 # Academic Experience
 
-###__Southern University of Science and Technology__  `2018.10 – NOW`
+### __Southern University of Science and Technology__  `2018.10 – NOW`
 _Research Assistant_<br>
 
 Investigating the immune response of acute lung
@@ -167,13 +167,13 @@ member.
 
 
 
-__QuanLiu, Ph.D.__: _Boss_  (Liuq3@sustc.edu.cn)
+__QuanLiu, Ph.D.__  _Boss_  (Liuq3@sustc.edu.cn)
 
 
-__Mengjie Feng, M.D.__: _Research Advisor_  (FengMJ321@163.com)
+__Mengjie Feng, M.D.__  _Research Advisor_  (FengMJ321@163.com)
 
 
-__Xifeng Lu, Ph.D.__: _Lecture_  (xifeng.lu@outlook.com)
+__Xifeng Lu, Ph.D.__  _Friend_  (xifeng.lu@outlook.com)
 
 
 
