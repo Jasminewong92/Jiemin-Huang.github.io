@@ -85,20 +85,20 @@ First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 ### __Southern University of Science and Technology__  `2018.10 – NOW`
 _Research Assistant_<br>
 
-Investigating the immune response of acute lung
-injury and heterotopic heart transplantation in mouse models. 
-Studing the immunobiology in cytokines and innate lymphoid cells.
+Developing heart transplantation model to study the allograft rejection.
+Asserssing the immune response in brain tumor with Ph.D students 
+Investigating the the role of innate lymphoid cells (ILC) in acute lung injury and heterotopic heart transplantation. 
+Studing the immunobiology in cytokines.
+Assisting in lab management.
+
 
 ### __Shenzhen People's Hospital, Department of Respiration__  `2017.11 - 2018.10`
 _Research Assistant_<br>
 
-Providing general supports to the Scientific research
-project. Designing and validating the molecular
-mechanisms of the asthma development. 
-Verified the naive of CD4+ T cells after treated with a specific
-miRNA.
-Supporting the day-to-day operation and laboratory animals
-management.
+Provided general supports to the Scientific research project.
+Validated the molecular mechanisms of the asthma.
+Evaluated the differentiation of naive CD4{+} T cells after treated with a specific miRNA.
+Supported the laboratory animals'management.
 
 
 
@@ -157,7 +157,7 @@ member.
 - Bioinformatic, Python
 
 
-- Good at Cantonese, Chinese, English
+- Fluent in Cantonese, Chinese, English
 
 
 ## References
@@ -178,7 +178,3 @@ __Xifeng Lu, Ph.D.__  _Research Advisor_  (xifeng.lu@outlook.com)
 
 
 
-<!-- ### Footer
-
-Last updated>: July 2018-->
- 
