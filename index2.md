@@ -3,7 +3,7 @@
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
 
-[[CV-Huangjiemin.pdf](Academic/CV.pdf)]
+[[Curriculum vitae](Academic/CV.pdf)]
 
 
 </div>
@@ -17,7 +17,16 @@ __Phone__     +86 188 2514 7714
 __Email__    <huangjm@mail.sustc.edu.cn>
 
 
-__Github__    <https://Github.com/Jasminewong92>
+__Adress__    <No 1088,xueyuan Rd., Xili, Nanshan District,Shenzhen,Guangdong,China>
+
+
+## Summary
+
+<I am an experienced front-end developer who has led development for multiple
+successful $1MM+ projects. I am passionate about building high quality apps and
+user interfaces with modern web technologies. Through being conversant in
+server-side engineering, visual/UX design, and project management practices,
+I am able to execute end-to-end on a product or project.>
 
 
 ##  Education  
