@@ -50,7 +50,10 @@ Guangzhou, China
 - B.S. in Chinese Medicinal Science
 
 
-- Study the theoretical knowledge of Traditional Chinese Medicine. Get familiar with the character of the Chinese Herbal Medicines.
+- Study the theoretical knowledge of Traditional Chinese Medicine. 
+
+
+- Get familiar with the character of the Chinese Herbal Medicines.
 
 
 
