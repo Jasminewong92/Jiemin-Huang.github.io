@@ -17,16 +17,16 @@ __Phone__     +86 188 2514 7714
 __Email__    <huangjm@mail.sustc.edu.cn>
 
 
-__Adress__    <No 1088,xueyuan Rd., Xili, Nanshan District,Shenzhen,Guangdong,China>
+__Adress__    No 1088,xueyuan Rd., Xili, Nanshan District,Shenzhen,Guangdong,China
 
 
 ## Summary
 
-<I am an experienced front-end developer who has led development for multiple
+I am an experienced front-end developer who has led development for multiple
 successful $1MM+ projects. I am passionate about building high quality apps and
 user interfaces with modern web technologies. Through being conversant in
 server-side engineering, visual/UX design, and project management practices,
-I am able to execute end-to-end on a product or project.>
+I am able to execute end-to-end on a product or project.
 
 
 ##  Education  
@@ -58,35 +58,6 @@ Guangzhou, China
 
 
 
-## Publications
-
-###  [__A natural product-like JAK2/STAT3 inhibitor induces apoptosis of malignan melanoma cells__](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177123)
-
-Ke-Jia Wu, __Jie-min Huang__, Hai-Jing
-Zhong, Zhen-Zhen Dong, Kasipandi
-Vellaisamy, Jin-Jian Lu, Xiuping Chen,
-Pauline Chiu, D. W. J. Kwong, Quan-Bin
-Han, Dik-Lung Ma* and Chung-Hang Leung*.
-
-[[PDF](Academic/plos.pdf)]
-
-###  [__Small Molecule Pin1 Inhibitor Blocking NF-B Signaling in Prostate Cancer Cells__](https://app.peer.us/invitation.html#/1da97e7b81cffa89758ad7af955fb99a?_k=fiiexo)
-
- Ke-Jia Wu,Hai-Jing Zhong, Guanjun Yang,
-Chun Wu,__Jie-min Huang__, Guodong Li,
-Dik-Lung Ma* and Chung-Hang Leung*.
-
-
-[[PDF](Academic/pin.pdf)]
-
-
-
-## Honors & Awards
-
-The scholarship for recreation and sport `Guangzhou, 2013` <br>
-
-
-First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 
 
 
@@ -157,6 +128,35 @@ desires. Providing general supports to the team
 member.
 
 
+## Publications
+
+###  [__A natural product-like JAK2/STAT3 inhibitor induces apoptosis of malignan melanoma cells__](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177123)
+
+Ke-Jia Wu, __Jie-min Huang__, Hai-Jing
+Zhong, Zhen-Zhen Dong, Kasipandi
+Vellaisamy, Jin-Jian Lu, Xiuping Chen,
+Pauline Chiu, D. W. J. Kwong, Quan-Bin
+Han, Dik-Lung Ma* and Chung-Hang Leung*.
+
+[[PDF](Academic/plos.pdf)]
+
+###  [__Small Molecule Pin1 Inhibitor Blocking NF-B Signaling in Prostate Cancer Cells__](https://app.peer.us/invitation.html#/1da97e7b81cffa89758ad7af955fb99a?_k=fiiexo)
+
+ Ke-Jia Wu,Hai-Jing Zhong, Guanjun Yang,
+Chun Wu,__Jie-min Huang__, Guodong Li,
+Dik-Lung Ma* and Chung-Hang Leung*.
+
+
+[[PDF](Academic/pin.pdf)]
+
+
+
+## Honors & Awards
+
+The scholarship for recreation and sport `Guangzhou, 2013` <br>
+
+
+First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 
 
 ## Skills
