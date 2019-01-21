@@ -170,11 +170,11 @@ First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 
 ## Communicaltion Skills
 
--Cantonese: Native speaker
+- Cantonese: Native speaker
 
--Chinese:  Fluent in reading, writing and speaking
+- Chinese:  Fluent in reading, writing and speaking
 
--English: Fluent in reading, writing and speaking
+- English: Fluent in reading, writing and speaking
 
 
 ## References
