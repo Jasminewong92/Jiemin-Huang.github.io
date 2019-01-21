@@ -12,13 +12,13 @@
 ##    Personal Information                                          
 
 
-__Phone__     +86 188 2514 7714
+__Phone:__     +86 188 2514 7714
 
 
-__Email__    <huangjm@mail.sustc.edu.cn>
+__Email:__    <huangjm@mail.sustc.edu.cn>
 
 
-__Address__    No 1088,xueyuan Rd., Xili, Nanshan District,Shenzhen,Guangdong,China
+__Address:__    No 1088,xueyuan Rd., Xili, Nanshan District,Shenzhen,Guangdong,China
 
 
 ## Summary
@@ -158,7 +158,7 @@ The scholarship for recreation and sport `Guangzhou, 2013` <br>
 First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 
 
-## Skills
+## Technical Skills
 
 
 - Cloning,Surgery,FCM, PCR, WB, IHC, ICC, ect
@@ -167,7 +167,14 @@ First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 - Bioinformatic, Python
 
 
-- Fluent in Cantonese, Chinese, English
+
+## Communicaltion Skills
+
+-Cantonese: Native speaker
+
+-Chinese:  Fluent in reading, writing and speaking
+
+-English: Fluent in reading, writing and speaking
 
 
 ## References
