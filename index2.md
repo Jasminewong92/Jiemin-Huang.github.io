@@ -2,7 +2,7 @@
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
- [CV-Huangjiemin.pdf](Academic/pin.pdf)]
+[[CV-Huangjiemin.pdf](Academic/CV.pdf)]
 
 
 </div>
