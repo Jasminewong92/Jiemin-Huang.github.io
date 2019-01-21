@@ -12,7 +12,7 @@
 __Phone__     +86 188 2514 7714
 
 
-__Email__    <huangjm@mail.sustc.edu.>
+__Email__    <huangjm@mail.sustc.edu.cn>
 
 
 __Github__    <https://Github.com/Jasminewong92>
@@ -167,7 +167,7 @@ member.
 
 
 
-__QuanLiu, Ph.D.__  _Boss_  (Liuq3@sustc.edu.cn)
+__QuanLiu, Ph.D.__  _Research Advisor_  (Liuq3@sustc.edu.cn)
 
 
 __Mengjie Feng, M.D.__  _Research Advisor_  (FengMJ321@163.com)
