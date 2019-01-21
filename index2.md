@@ -78,7 +78,7 @@ _Research Assistant_<br>
 
 Provided general supports to the Scientific research project.
 Validated the molecular mechanisms of the asthma.
-Evaluated the differentiation of naive CD4{+} T cells after treated with a specific miRNA.
+Evaluated the differentiation of naive CD4+ T cells after treated with a specific miRNA.
 Supported the laboratory animals'management.
 
 
@@ -184,13 +184,13 @@ First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 
 
 
-__QuanLiu, Ph.D.__  _Research Advisor_  (Liuq3@sustc.edu.cn)
+__QuanLiu, Ph.D.__  _Associate professor of SUSTec_  (Liuq3@sustc.edu.cn)
 
 
-__Mengjie Feng, M.D.__  _Research Advisor_  (FengMJ321@163.com)
+__Mengjie Feng, M.D.__  _Physician of Shenzhen People's Hospital_  (FengMJ321@163.com)
 
 
-__Xifeng Lu, Ph.D.__  _Research Advisor_  (xifeng.lu@outlook.com)
+__Xifeng Lu, Ph.D.__  _lecturer of Sehnzhen University_  (xifeng.lu@outlook.com)
 
 
 
