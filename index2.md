@@ -2,7 +2,7 @@
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://jasminekong92.github.io.cv/" style="margin-left:0.5em">Looking for PhD position</a>
+
 
 </div>
 
