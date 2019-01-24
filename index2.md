@@ -4,7 +4,6 @@
 <i class="fi-home" style="margin-left:1em"></i>
 
 [[Curriculum vitae](Academic/CV-JieminHuang.pdf)]
-[[Motivation letter](Academic/L.pdf)]
 
 
 </div>
