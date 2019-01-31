@@ -4,6 +4,8 @@
 <i class="fi-home" style="margin-left:1em"></i>
 
 [[Curriculum vitae](Academic/CV-JieminHuang.pdf)]
+[[Academic Report](Academic/MA Academic Report.pdf)]
+[[Thesis](Academic/Thesis.pdf)]
 
 
 </div>
