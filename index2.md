@@ -5,7 +5,6 @@
 
 [[Curriculum vitae](Academic/CV-JieminHuang.pdf)]
 [[Academic Report](Academic/ar.PDF)]
-[[Thesis](Academic/Thesis.pdf)]
 
 
 </div>
