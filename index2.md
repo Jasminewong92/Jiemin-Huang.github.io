@@ -4,7 +4,7 @@
 <i class="fi-home" style="margin-left:1em"></i>
 
 [[Curriculum vitae](Academic/CV-JieminHuang.pdf)]
-[[Academic Report](Academic/ar.pdf)]
+[[Academic Report](Academic/ar.SPDF)]
 
 
 </div>
