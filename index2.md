@@ -5,7 +5,7 @@
 
 [[Curriculum vitae](Academic/CV-JieminHuang.pdf)]
 [[Academic Report](Academic/ar.PDF)]
-
+[[Breif tutorial for bioinformatic](Academic/1.pdf)]
 
 </div>
 
