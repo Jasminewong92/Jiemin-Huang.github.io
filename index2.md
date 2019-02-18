@@ -146,7 +146,7 @@ Chun Wu,__Jie-min Huang__, Guodong Li,
 Dik-Lung Ma* and Chung-Hang Leung*.
 
 
-[[PDF](Academic/pin.pdf)]
+[[PDF](Academic/Pin.pdf)]
 
 
 
