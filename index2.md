@@ -139,7 +139,7 @@ Han, Dik-Lung Ma* and Chung-Hang Leung*.
 
 [[PDF](Academic/plos.pdf)]
 
-###  [__Small Molecule Pin1 Inhibitor Blocking NF-B Signaling in Prostate Cancer Cells__](https://app.peer.us/invitation.html#/1da97e7b81cffa89758ad7af955fb99a?_k=fiiexo)
+###  [__Small Molecule Pin1 Inhibitor Blocking NF-B Signaling in Prostate Cancer Cells__](https://onlinelibrary.wiley.com/doi/full/10.1002/asia.201701216)
 
  Ke-Jia Wu,Hai-Jing Zhong, Guanjun Yang,
 Chun Wu,__Jie-min Huang__, Guodong Li,
