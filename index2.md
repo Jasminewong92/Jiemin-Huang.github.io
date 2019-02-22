@@ -22,7 +22,7 @@ __Address:__    No 1088,xueyuan Rd., Xili, Nanshan District,Shenzhen,Guangdong,C
 
 
 ## Summary
-I am a research assistant from Southern University of Science and Technology (SUSTech), who looking for PhD position. I am passionate about investigating the molecular biology and immunology. Through being conversant in diverse expermental skills like cloning, mouse surgery, flow cytometer as well as immunohistochemistry, I am able to execute end-to-end on a product or project.
+I am a research assistant from Southern University of Science and Technology (SUSTech), who looking for PhD position. I am passionate about investigating the molecular biology and immunology. Through being conversant in diverse expermental skills like cloning, micro, flow cytometer as well as immunohistochemistry, I am able to execute end-to-end on a product or project.
 
 
 ##  Education  
