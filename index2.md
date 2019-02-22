@@ -184,13 +184,13 @@ First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 
 
 
-__QuanLiu, Ph.D.__  _Associate professor of SUSTec_  (Liuq3@sustc.edu.cn)
+__QuanLiu, MD,PhD.__  _Associate professor of SUSTec_  (Liuq3@sustc.edu.cn)
 
 
-__Mengjie Feng, M.D.__  _Physician of Shenzhen People's Hospital_  (FengMJ321@163.com)
+__Mengjie Feng, MD,PhD.__  _Physician of Shenzhen People's Hospital_  (FengMJ321@163.com)
 
 
-__Xifeng Lu, Ph.D.__  _lecturer of Sehnzhen University_  (xifeng.lu@outlook.com)
+__Xifeng Lu, PhD.__  _lecturer of Sehnzhen University_  (xifeng.lu@outlook.com)
 
 
 
