@@ -190,7 +190,7 @@ __QuanLiu, MD,PhD.__  _Associate professor of SUSTec_  (Liuq3@sustc.edu.cn)
 __Mengjie Feng, MD,PhD.__  _Physician of Shenzhen People's Hospital_  (FengMJ321@163.com)
 
 
-__Xifeng Lu, PhD.__  _lecturer of Sehnzhen University_  (xifeng.lu@outlook.com)
+__Xifeng Lu, PhD.__  _lecturer of Sehnzhen University_  (x.lu@szu.edu.cn)
 
 
 
