@@ -15,7 +15,7 @@
 __Phone:__     +86 188 2514 7714
 
 
-__Email:__    <huangjm@mail.sustc.edu.cn>
+__Email:__    <huangjm@mail.sustech.edu.cn>
 
 
 __Address:__    No 1088,xueyuan Rd., Xili, Nanshan District,Shenzhen,Guangdong,China
