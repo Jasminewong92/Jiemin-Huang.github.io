@@ -15,14 +15,14 @@
 __Phone:__     +86 188 2514 7714
 
 
-__Email:__    <huangjm@mail.sustech.edu.cn>
+__Email:__    <mb55831@connect.umac.mo>
 
 
-__Address:__    No 1088,xueyuan Rd., Xili, Nanshan District,Shenzhen,Guangdong,China
+__Address:__    No 20,Xinwei,Banfu,Zhongshan,Guangdong,China
 
 
 ## Summary
-I am a research assistant from Southern University of Science and Technology (SUSTech), who looking for PhD position. I am passionate about investigating the molecular biology and immunology. Through being conversant in diverse expermental skills like cloning, micro, flow cytometer as well as immunohistochemistry, I am able to execute end-to-end on a product or project.
+I am Jiemin Huang who are looking for PhD position currently. I am passionate about investigating the molecular biology and Oncology. Through being conversant in diverse expermental skills like cloning, micro, flow cytometer as well as immunohistochemistry, I am able to execute end-to-end on a product or project.
 
 
 ##  Education  
@@ -179,12 +179,6 @@ First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 
 ## References
 
-
-
-
-
-
-__QuanLiu, MD,PhD.__  _Associate professor of SUSTec_  (Liuq3@sustc.edu.cn)
 
 
 __Mengjie Feng, MD,PhD.__  _Physician of Shenzhen People's Hospital_  (FengMJ321@163.com)
