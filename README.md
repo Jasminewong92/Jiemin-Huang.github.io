@@ -63,7 +63,7 @@ Guangzhou, China
 
 # Academic Experience
 
-### __Southern University of Science and Technology__  `2018.10 – NOW`
+### __Southern University of Science and Technology__  `2018.10 – 2018.04`
 _Research Assistant_<br>
 
 Developing heart transplantation model to study the allograft rejection.
