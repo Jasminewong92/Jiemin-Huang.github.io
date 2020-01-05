@@ -184,7 +184,6 @@ First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 __Mengjie Feng, MD,PhD.__  _Physician of Shenzhen People's Hospital_  (FengMJ321@163.com)
 
 
-__Xifeng Lu, PhD.__  _lecturer of Sehnzhen University_  (x.lu@szu.edu.cn)
 
 
 
