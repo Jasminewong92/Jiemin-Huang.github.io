@@ -4,8 +4,10 @@
 <i class="fi-home" style="margin-left:1em"></i>
 
 [[Curriculum vitae](Academic/CV-JieminHuang.pdf)]
-[[Academic Report](Academic/ar.PDF)]
-[[Breif tutorial for GO enrichment](Academic/1.pdf)]
+[[Academic Report](Academic/ar.pdf)]
+[[Enrichment Analsis](Academic/E.pdf)]
+[[Methology Report](Academic/M.pdf)]
+
 
 </div>
 
