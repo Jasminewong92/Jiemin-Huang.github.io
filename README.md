@@ -3,7 +3,7 @@
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
 
-[[Curriculum vitae](Academic/CV-JieminHuang.pdf)]
+[[Curriculum vitae](Academic/C.pdf)]
 [[Academic Report](Academic/ar.pdf)]
 [[Enrichment Analysis](Academic/E.pdf)]
 [[TCGA Analysis](Academic/T.pdf)]
