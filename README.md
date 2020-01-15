@@ -5,7 +5,8 @@
 
 [[Curriculum vitae](Academic/CV-JieminHuang.pdf)]
 [[Academic Report](Academic/ar.pdf)]
-[[Enrichment Analsis](Academic/E.pdf)]
+[[Enrichment Analysis](Academic/E.pdf)]
+[[TCGA Analysis](Academic/T.pdf)]
 [[Methology Report](Academic/M.pdf)]
 
 
