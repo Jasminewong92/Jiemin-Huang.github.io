@@ -24,7 +24,7 @@ __Address:__    No 20,Xinwei,Banfu,Zhongshan,Guangdong,China
 
 
 ## Summary
-I am Jiemin Huang who are looking for PhD position currently. I am passionate about investigating the molecular biology and Oncology. Through being conversant in diverse expermental skills like cloning, micro, flow cytometer as well as immunohistochemistry, I am able to execute end-to-end on a product or project.
+I am Jiemin Huang who are looking for PhD position currently. I am passionate about investigating life science. Through being conversant in diverse expermental skills like cloning, flow cytometer and immunohistochemistry, I am able to execute end-to-end on a product or project.
 
 
 ##  Education  
@@ -65,7 +65,15 @@ Guangzhou, China
 
 # Academic Experience
 
-### __Southern University of Science and Technology__  `2018.10 – 2018.04`
+
+### __Guangdong Pharmaceutical University__`2019.05 - Now`
+_Research Assistant_<br>
+Prepare both human and mouse's tumor sample for flow cytometery and single cells sequencing.
+Evaluated the function of myeloid derived suppressive cells (MDSC). 
+Support the animial expermient like generating the tumor model.
+
+
+### __Southern University of Science and Technology__  `2018.10 – 2019.04`
 _Research Assistant_<br>
 
 Developing heart transplantation model to study the allograft rejection.
@@ -186,4 +194,4 @@ First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 __Mengjie Feng, MD,PhD.__  _Physician of Shenzhen People's Hospital_  (FengMJ321@163.com)
 
 
-__Xifeng Lu, PhD.__  _lecturer of Sehnzhen University_  (x.lu@szu.edu.cn)
+__Shengmin Lai, MD__  _Principal Investigator of Guangdong Pharmaceutical University_  (aonilsm@126.com)
