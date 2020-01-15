@@ -3,11 +3,11 @@
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
 
-[[Curriculum vitae](Academic/C.pdf)]
+[[Curriculum vitae](Academic/c.pdf)]
 [[Academic Report](Academic/ar.pdf)]
-[[Enrichment Analysis](Academic/E.pdf)]
-[[TCGA Analysis](Academic/T.pdf)]
-[[Methology Report](Academic/M.pdf)]
+[[Enrichment Analysis](Academic/e.pdf)]
+[[TCGA Analysis](Academic/t.pdf)]
+[[Methology Report](Academic/m.pdf)]
 
 
 </div>
