@@ -5,7 +5,7 @@
 
 [[Curriculum vitae](Academic/c.pdf)]
 [[Academic Report](Academic/ar.PDF)]
-[[Enrichment Analysis](Academi/en.pdf)]
+[[Enrichment Analysis](Academic/en.pdf)]
 [[TCGA Analysis](Academic/t.pdf)]
 [[Methology Report](Academic/m.pdf)]
 
