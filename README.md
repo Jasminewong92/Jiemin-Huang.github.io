@@ -5,7 +5,7 @@
 
 [[Curriculum vitae](Academic/c.pdf)]
 [[Academic Report](Academic/ar.pdf)]
-[[Enrichment Analysis](Academic/e.pdf)]
+[[Enrichment Analysis](Academic/en.pdf)]
 [[TCGA Analysis](Academic/t.pdf)]
 [[Methology Report](Academic/m.pdf)]
 
@@ -157,7 +157,7 @@ Chun Wu,__Jie-min Huang__, Guodong Li,
 Dik-Lung Ma* and Chung-Hang Leung*.
 
 
-[[PDF](Academic/Pin.pdf)]
+[[PDF](Academic/P1.pdf)]
 
 
 
