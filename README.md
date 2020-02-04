@@ -18,7 +18,7 @@
 __Phone:__     +86 188 2514 7714
 
 
-__Email:__    <mb55831@connect.umac.mo>
+__Email:__      <mb55831@connect.um.edu.mo>
 
 
 __Address:__    No 20,Xinwei,Banfu,Zhongshan,Guangdong,China
