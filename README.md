@@ -125,10 +125,10 @@ of schedule and quality.
 _Intern_<br>
 
 
-Assisted in the preparation of academic conference about advance in orthopaedics. \\
-Hastened the promotion and application of pharmacological intervention of osteoporosis. \\
-Collected literature documents that match the customer’s needs and desires. \\
-Provided general supports to the team member.\\
+Assisted in the preparation of academic conference about advance in orthopaedics. \
+Hastened the promotion and application of pharmacological intervention of osteoporosis. \
+Collected literature documents that match the customer’s needs and desires. \
+Provided general supports to the team member.\
 
 
 ## Publications
