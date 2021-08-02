@@ -77,11 +77,11 @@ Continually assess new funding opportunities, coordinate submission of new proje
 ### __Southern University of Science and Technology__  `2018.10 – 2019.04`
 _Research Assistant_<br>
 
-Developing heart transplantation model to study the allograft rejection.
-Asserssing the immune response in brain tumor with Ph.D students 
-Investigating the the role of innate lymphoid cells (ILC) in acute lung injury and heterotopic heart transplantation. 
-Studing the immunobiology in cytokines and myeloid derived suppressive cells (MDSC).
-Assisting in lab management.
+Developed heart transplantation model to study the allograft rejection.\
+Asserssed the immune response in brain tumor with Ph.D students.\ 
+Investigated the the role of innate lymphoid cells (ILC) in acute lung injury and heterotopic heart transplantation.\ 
+Studied the immunobiology in cytokines and myeloid derived suppressive cells (MDSC).\
+Assisted in lab management.\
 
 
 ### __Shenzhen People's Hospital, Department of Respiration__  `2017.11 - 2018.10`
@@ -97,10 +97,9 @@ Supported the laboratory animals'management.
 ### __University of Macau, Institute of Chinese Medical Sciences__ `2015.8 - 2017.06`
 _Master Student_<br>
 
-Developing and testing the biological activities of
-natural products and metal-based compounds for
-molecular targets. Studying the protein-protein interactions
-that correlate with disease progression.
+Developed and testing the biological activities of natural products and metal-based compounds for
+molecular targets.\
+Studied the protein-protein interactions that correlate with disease progression.\
 
 
 
@@ -109,12 +108,10 @@ that correlate with disease progression.
 
 _Clinical Research Assistant_<br>
 
-Liaising with doctors/investigators on conducting
-the clinical trial. Monitoring the trial throughout
-its duration. Ensuring each center has the trial
-materials. Verification of the data entered on the
-CRFs. Ensuring the projects run on the requirement
-of schedule and quality.
+Liaised with doctors/investigators on conducting the clinical trial.\
+Monitored the trial throughout its duration. Ensuring each center has the trial materials.\
+Verification of the data entered on the CRFs.\
+Ensured the projects run on the requirement of schedule and quality.\
 
 
 
@@ -127,7 +124,7 @@ _Intern_<br>
 
 Assisted in the preparation of academic conference about advance in orthopaedics. \
 Hastened the promotion and application of pharmacological intervention of osteoporosis. \
-Collected literature documents that match the customer’s needs and desires. \
+Collected literature documents that match the customer’s needs and desires.\
 Provided general supports to the team member.\
 
 
