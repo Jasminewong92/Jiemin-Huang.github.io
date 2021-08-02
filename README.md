@@ -67,11 +67,13 @@ Guangzhou, China
 # Academic Experience
 
 
-### __Guangdong Pharmaceutical University__`2019.05 - Now`
-_Research Assistant_<br>
-Prepare both human and mouse's tumor sample for flow cytometery and single cells sequencing.
-Evaluated the function of myeloid derived suppressive cells (MDSC). 
-Support the animial expermient like generating the tumor model.
+### __Bioland Laboratory__`2020.01 - Now`
+_Project Manager_<br>
+Manage medical instruments prresearch and development projects with PI and research team.
+Track and coordinate project budgets, tasks, schedules, risks and status to support effective decisions and project reporting to review boards.
+Review and document progress and reports
+Continually assess new funding opportunities, coordinate submission of new project proposals.
+
 
 
 ### __Southern University of Science and Technology__  `2018.10 – 2019.04`
@@ -80,7 +82,7 @@ _Research Assistant_<br>
 Developing heart transplantation model to study the allograft rejection.
 Asserssing the immune response in brain tumor with Ph.D students 
 Investigating the the role of innate lymphoid cells (ILC) in acute lung injury and heterotopic heart transplantation. 
-Studing the immunobiology in cytokines.
+Studing the immunobiology in cytokines and myeloid derived suppressive cells (MDSC).
 Assisting in lab management.
 
 
@@ -100,8 +102,7 @@ _Master Student_<br>
 Developing and testing the biological activities of
 natural products and metal-based compounds for
 molecular targets. Studying the protein-protein interactions
-that correlate with disease progression
-after drugs treatment.
+that correlate with disease progression.
 
 
 
