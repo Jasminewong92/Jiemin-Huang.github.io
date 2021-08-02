@@ -18,7 +18,7 @@
 __Phone:__     +86 188 2514 7714
 
 
-__Email:__      <mb55831@connect.um.edu.mo>
+__Email:__      <huang_jiemin@grmh-gdl.cn>
 
 
 __Address:__    No 20,Xinwei,Banfu,Zhongshan,Guangdong,China
@@ -39,7 +39,7 @@ Macau, China
 - M.S. in Chinese Medicinal Science
 
 
-- Take on advance study in the field of life science. 
+- Take on advance study in the field of oncology research. 
 
 
 
@@ -64,10 +64,8 @@ Guangzhou, China
 
 
 
-# Academic Experience
-
-
-### __Bioland Laboratory__`2020.01 - Now`
+# Academic Experience 
+### __Bioland Laboratory__`2019.12 - Now`
 _Project Manager_<br>
 Manage medical instruments prresearch and development projects with PI and research team.
 Track and coordinate project budgets, tasks, schedules, risks and status to support effective decisions and project reporting to review boards.
@@ -173,10 +171,10 @@ First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 ## Technical Skills
 
 
-- Cloning,Surgery,FCM, PCR, WB, IHC, ICC, ect
+- Clone,FCM, PCR, WB, IHC, ICC,generating mose modle ect
 
 
-- Bioinformatic, Python
+- Bioinformatic analyse
 
 
 
