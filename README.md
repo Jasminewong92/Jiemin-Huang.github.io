@@ -78,10 +78,10 @@ Continually assess new funding opportunities, coordinate submission of new proje
 _Research Assistant_<br>
 
 Developed heart transplantation model to study the allograft rejection.\
-Asserssed the immune response in brain tumor with Ph.D students.\ 
+Asserssed the immune response in brain tumor with Ph.D students.\
 Investigated the the role of innate lymphoid cells (ILC) in acute lung injury and heterotopic heart transplantation.\ 
 Studied the immunobiology in cytokines and myeloid derived suppressive cells (MDSC).\
-Assisted in lab management.\
+Assisted in lab management.
 
 
 ### __Shenzhen People's Hospital, Department of Respiration__  `2017.11 - 2018.10`
@@ -90,7 +90,7 @@ _Research Assistant_<br>
 Provided general supports to the Scientific research project.\
 Validated the molecular mechanisms of the asthma.\
 Evaluated the differentiation of naive CD4+ T cells after treated with a specific miRNA.\
-Supported the laboratory animals'management.\
+Supported the laboratory animals'management.
 
 
 
@@ -99,8 +99,7 @@ _Master Student_<br>
 
 Developed and testing the biological activities of natural products and metal-based compounds for
 molecular targets.\
-Studied the protein-protein interactions that correlate with disease progression.\
-
+Studied the protein-protein interactions that correlate with disease progression.
 
 
 
@@ -111,7 +110,7 @@ _Clinical Research Assistant_<br>
 Liaised with doctors/investigators on conducting the clinical trial.\
 Monitored the trial throughout its duration. Ensuring each center has the trial materials.\
 Verification of the data entered on the CRFs.\
-Ensured the projects run on the requirement of schedule and quality.\
+Ensured the projects run on the requirement of schedule and quality.
 
 
 
@@ -125,7 +124,7 @@ _Intern_<br>
 Assisted in the preparation of academic conference about advance in orthopaedics. \
 Hastened the promotion and application of pharmacological intervention of osteoporosis.\
 Collected literature documents that match the customer’s needs and desires.\
-Provided general supports to the team member.\
+Provided general supports to the team member.
 
 
 ## Publications
