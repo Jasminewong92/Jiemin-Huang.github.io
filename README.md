@@ -80,7 +80,7 @@ _Research Assistant_<br>
 Developed heart transplantation model to study the allograft rejection.\
 Asserssed the immune response in brain tumor with Ph.D students.\
 Investigated the the role of innate lymphoid cells (ILC) in acute lung injury and heterotopic heart transplantation. \
-Studied the immunobiology in cytokines and myeloid derived suppressive cells (MDSC).\\
+Studied the immunobiology in cytokines and myeloid derived suppressive cells (MDSC). \
 Assisted in lab management.
 
 
