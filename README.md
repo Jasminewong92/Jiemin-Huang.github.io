@@ -67,10 +67,10 @@ Guangzhou, China
 # Academic Experience 
 ### __Bioland Laboratory__`2019.12 - Now`
 _Project Manager_<br>
-Manage medical instruments prresearch and development projects with PI and research team.
-Track and coordinate project budgets, tasks, schedules, risks and status to support effective decisions and project reporting to review boards.
-Review and document progress and reports.
-Continually assess new funding opportunities, coordinate submission of new project proposals.
+Manage medical instruments prresearch and development projects with PI and research team.\
+Track and coordinate project budgets, tasks, schedules, risks and status to support effective decisions and project reporting to review boards.\
+Review and document progress and reports.\
+Continually assess new funding opportunities, coordinate submission of new project proposals.\
 
 
 
@@ -87,10 +87,10 @@ Assisted in lab management.\
 ### __Shenzhen People's Hospital, Department of Respiration__  `2017.11 - 2018.10`
 _Research Assistant_<br>
 
-Provided general supports to the Scientific research project.
-Validated the molecular mechanisms of the asthma.
-Evaluated the differentiation of naive CD4+ T cells after treated with a specific miRNA.
-Supported the laboratory animals'management.
+Provided general supports to the Scientific research project.\
+Validated the molecular mechanisms of the asthma.\
+Evaluated the differentiation of naive CD4+ T cells after treated with a specific miRNA.\
+Supported the laboratory animals'management.\
 
 
 
@@ -123,7 +123,7 @@ _Intern_<br>
 
 
 Assisted in the preparation of academic conference about advance in orthopaedics. \
-Hastened the promotion and application of pharmacological intervention of osteoporosis. \
+Hastened the promotion and application of pharmacological intervention of osteoporosis.\
 Collected literature documents that match the customer’s needs and desires.\
 Provided general supports to the team member.\
 
