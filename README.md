@@ -161,7 +161,7 @@ First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 ## Technical Skills
 
 
-- Clone,FCM, PCR, WB, IHC, ICC,generating mose modle ect
+- Clone,FCM, PCR, WB, IHC, ICC,Animal Model ect
 
 
 - Bioinformatic analyse
