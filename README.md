@@ -70,7 +70,7 @@ _Project Manager_<br>
 Manage medical instruments prresearch and development projects with PI and research team.\
 Track and coordinate project budgets, tasks, schedules, risks and status to support effective decisions and project reporting to review boards.\
 Review and document progress and reports.\
-Continually assess new funding opportunities, coordinate submission of new project proposals.\
+Continually assess new funding opportunities, coordinate submission of new project proposals.
 
 
 
@@ -79,8 +79,8 @@ _Research Assistant_<br>
 
 Developed heart transplantation model to study the allograft rejection.\
 Asserssed the immune response in brain tumor with Ph.D students.\
-Investigated the the role of innate lymphoid cells (ILC) in acute lung injury and heterotopic heart transplantation.\ 
-Studied the immunobiology in cytokines and myeloid derived suppressive cells (MDSC).\
+Investigated the the role of innate lymphoid cells (ILC) in acute lung injury and heterotopic heart transplantation. \
+Studied the immunobiology in cytokines and myeloid derived suppressive cells (MDSC).\\
 Assisted in lab management.
 
 
