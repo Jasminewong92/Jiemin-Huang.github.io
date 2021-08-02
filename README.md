@@ -69,7 +69,7 @@ Guangzhou, China
 _Project Manager_<br>
 Manage medical instruments prresearch and development projects with PI and research team.
 Track and coordinate project budgets, tasks, schedules, risks and status to support effective decisions and project reporting to review boards.
-Review and document progress and reports
+Review and document progress and reports.
 Continually assess new funding opportunities, coordinate submission of new project proposals.
 
 
@@ -125,16 +125,10 @@ of schedule and quality.
 _Intern_<br>
 
 
-
-
-
-Assisting in the preparation of academic conference
-about advance in orthopaedics. Hastening
-the promotion and application of pharmacological
-intervention of osteoporosis. Collecting literature
-documents that match the customer’s needs and
-desires. Providing general supports to the team
-member.
+Assisted in the preparation of academic conference about advance in orthopaedics. \\
+Hastened the promotion and application of pharmacological intervention of osteoporosis. \\
+Collected literature documents that match the customer’s needs and desires. \\
+Provided general supports to the team member.\\
 
 
 ## Publications
