@@ -67,7 +67,7 @@ Guangzhou, China
 # Academic Experience 
 ### __Bioland Laboratory__`2019.12 - Now`
 _Project Manager_<br>
-Manage medical instruments prresearch and development projects with PI and research team.\
+Manage medical instruments research and development projects with PI and research team.\
 Track and coordinate project budgets, tasks, schedules, risks and status to support effective decisions and project reporting to review boards.\
 Review and document progress and reports.\
 Continually assess new funding opportunities, coordinate submission of new project proposals.
@@ -185,3 +185,8 @@ __Mengjie Feng, MD,PhD.__  _Physician of Shenzhen People's Hospital_  (FengMJ321
 
 
 __Shengmin Lai, MD__  _Principal Investigator of Guangdong Pharmaceutical University_  (aonilsm@126.com)
+
+
+__Xifeng Lu, PhD.__  _Principal Investigator of Shenzhen University_  (LuXF@outlook.com)
+
+
