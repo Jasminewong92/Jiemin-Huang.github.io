@@ -181,12 +181,11 @@ First place for high jump in college sports meeting `Guangzhou, 2013`<br>
 
 
 
+__Qiang Xu, PhD.__  _Principal Investigator of Bioland Laboratory_  ( xu qiang@grmh-gdl.cn)
+
 __Mengjie Feng, MD,PhD.__  _Physician of Shenzhen People's Hospital_  (FengMJ321@163.com)
-
-
-__Shengmin Lai, MD__  _Principal Investigator of Guangdong Pharmaceutical University_  (aonilsm@126.com)
-
 
 __Xifeng Lu, PhD.__  _Principal Investigator of Shenzhen University_  (LuXF@outlook.com)
 
+__Shengmin Lai, MD__  _Principal Investigator of Guangdong Pharmaceutical University_  (aonilsm@126.com)
 
